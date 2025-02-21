@@ -437,10 +437,10 @@ This line is in line 2.</pre>
     </tr>
     <tr>
         <td>
-            <pre>[This website](https://docs.okviz.com)</pre>
+            <pre>[This website](https://docs.microsoft.com)</pre>
         </td>
         <td>
-            <a href="https://docs.okviz.com">This website</a>
+            <a href="https://docs.microsoft.com">This website</a>
         </td>
     </tr>
 </table>
@@ -450,7 +450,7 @@ The URL of the links can be:
 - **Absolute URL**  
     When you need to link a page external to the repo. For instance:
 
-    `[OKVIZ website](https://okviz.com/)`
+    `[Microsoft website](https://microsoft.com/)`
 
 - **Relative URL**  
     When you need to link a page of the repo. 
