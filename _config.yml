@@ -35,7 +35,6 @@ nav_root_title: Docs
 ### DO NOT CHANGE BELOW THIS LINE ###
 
 plugins:
-  - jekyll-sitemap
   - jekyll-relative-links
   - jekyll-include-cache
 
